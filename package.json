@@ -1,0 +1,8 @@
+{
+  "name": "ambiente-dev-lab",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node -e \"process.exit(0)\"",
+    "start": "node index.js"
+  }
+}
